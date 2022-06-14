@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## My name is Jorge Monge, and I am an architect that morphed into a GIS analyst that morphed into a software developer. What a ride!
 
