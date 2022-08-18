@@ -12,7 +12,8 @@ I live in Canada and I work for Fujitsu Consulting, with a focus, right now, on 
  I studied:
   - Architecture in the Universidad Politécnica de Madrid.
   - Geographic Information Systems at the Southern Alberta Institute of Technology (SAIT)
-  - Front-end web development at the University of Calgary
+  - Front-end web development at the University of Calgary (certificate)
+  - C# .NET development at the University of Calgary (certificate, ongoing)
   - ... and I continue to study/learn every day!
 
 Feel free to drop me a line at gis@jorgemonge.ca
