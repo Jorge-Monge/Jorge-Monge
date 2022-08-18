@@ -5,8 +5,8 @@
 I live in Canada and I work for Fujitsu Consulting, with a focus, right now, on geospatial web development with Javascript and React. I might be considered a "jack-of-all-trades" having worked in:
   - the back-end with NodeJS and C# .NET.
   - relational databases like PostgreSQL/GIS and SQL Server, including advanced SQL queries and functions/procedures.
-  - the front-end with HTML/CSS/Vanilla JS, React, responsive design with Bootstrap.
-  - front-end mapping libraries like Leaflet.
+  - the front-end with HTML/CSS/Vanilla JS, React, Bootstrap, and Tailwind CSS.
+  - front-end mapping libraries like Leaflet and the ArcGIS JS API.
   - Python for a variety of things (automatic PDF mapping, Esri's ArcGIS Online content management, and many more)
  
  I studied:
