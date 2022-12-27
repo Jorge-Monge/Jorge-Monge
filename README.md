@@ -2,7 +2,7 @@
 
 ## My name is Jorge Monge, and I am an architect that morphed into a GIS analyst that morphed into a software developer. What a ride!
 
-I live in Canada and I work for Fujitsu Consulting, with a focus, right now, on geospatial web development with Javascript and React. I might be considered a "jack-of-all-trades" having worked in:
+I live in Canada and work for Fujitsu Consulting, with a focus, right now, on geospatial web development with Javascript and React. I might be considered a "jack-of-all-trades" having worked in:
   - the back-end with NodeJS and C# .NET.
   - relational databases like PostgreSQL/GIS and SQL Server, including advanced SQL queries and functions/procedures.
   - the front-end with HTML/CSS/Vanilla JS, React, Bootstrap, and Tailwind CSS.
