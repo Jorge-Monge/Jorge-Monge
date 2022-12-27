@@ -16,7 +16,7 @@ I live in Canada and work for Fujitsu Consulting, with a focus, right now, on ge
   - C# .NET development at the University of Calgary (Certificate, ongoing)
   - ... and I continue to study/learn every day!
 
-Feel free to drop me a line at gis@jorgemonge.ca
+Feel free to drop me a line at ✉️ [gis@jorgemonge.ca](mailto:gis@jorgemonge.ca)
 
 Thanks! 😎
 
