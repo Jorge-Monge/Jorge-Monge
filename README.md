@@ -16,8 +16,7 @@ I live in Canada and work for Fujitsu Consulting, with a focus, right now, on ge
   - C# .NET development at the University of Calgary (Certificate, ongoing)
   - ... and I continue to study/learn every day!
 
-Feel free to drop me a line at ✉️ [gis@jorgemonge.ca](mailto:gis@jorgemonge.ca)
-or connect with me in Linkedin <p> <a href="https://www.linkedin.com/in/jorge-monge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Feel free to drop me a line at ✉️ [gis@jorgemonge.ca](mailto:gis@jorgemonge.ca) or connect with me in Linkedin <a href="https://www.linkedin.com/in/jorge-monge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 Thanks! 😎
 
