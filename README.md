@@ -20,11 +20,11 @@ Feel free to drop me a line at ✉️ [gis@jorgemonge.ca](mailto:gis@jorgemonge.
 
 Thanks! 😎
 
-<div>
+<div style="background:black">
 <a href="https://incomeinspain2020.vercel.app" rel="noreferrer"><img src="https://raw.githubusercontent.com/Jorge-Monge/income_spain_2020/main/incomeInSpain.png" width="192" height="92" alt="Income in Spain Project" /></a>
 </div>
 <div>
-  <p>Income in Spain - ArcGIS Javascript API</p>
+  <p style="color:white">Income in Spain - ArcGIS Javascript API</p>
 </div>
 </br>
 <p align="left">
