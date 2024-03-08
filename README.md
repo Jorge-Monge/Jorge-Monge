@@ -1,6 +1,6 @@
 ## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Jorge Monge, and I am a GIS web developer with a background in GIS analysis and, further back, in architecture.
+## My name is Jorge Monge, and I am a GIS web developer with a background in architecture.
 
 I live in Canada and work for Fujitsu Consulting, with a focus, right now, on geospatial web development with Javascript and React. I might be considered a "jack-of-all-trades" having worked in:
   - the back-end with NodeJS and C# .NET.
