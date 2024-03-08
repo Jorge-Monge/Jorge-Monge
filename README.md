@@ -20,7 +20,7 @@ Feel free to drop me a line at ✉️ [gis@jorgemonge.ca](mailto:gis@jorgemonge.
 
 Thanks! 😎
 
-<a href="https://incomeinspain2020.vercel.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://incomeinspain2020.vercel.app" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://github.com/Jorge-Monge/income_spain_2020/blob/main/incomeInSpain.png?raw=true)" width="192" height="92" alt="Income in Spain Project" /></a>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
